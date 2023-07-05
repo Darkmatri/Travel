@@ -63,6 +63,9 @@ header {
 }
 
 .column img {
+    border: 5px solid white;
+    border-style: inset;
+    border-radius: 25px;
     margin-top: 8px;
     vertical-align: middle;
     width: 100%;
@@ -71,13 +74,14 @@ header {
     height: 300px;
 }
 .column img:hover{
-    transition: all .3s ease-in-out;
+    transition: all .5s ease-in-out;
     position: relative;
     margin: 2rem 0;
     overflow: hidden;
     border-radius: 50%;
     transform: scale(1.1);
-    border: 5px solid #FEFF86;
+    border: 5px solid #fff;
+    border-style: outset;
 }
 
 @media screen and (max-width: 800px) {
