@@ -30,7 +30,7 @@ This is a sample application that demonstrates an E-commerce website using HTML 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you the project and running on your local machine for development and testing purposes.<br>
-The E-commerce application can be <a href="https://darkmatri.github.io/Pasugaaram/">viewed online here.</a>
+The E-commerce application can be <a href="https://darkmatri.github.io/Travel/">viewed online here.</a>
 
 ## FlowChart <a name = "flowchart"></a>
 
