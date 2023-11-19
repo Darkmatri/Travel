@@ -26,12 +26,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-At Wanderlust Journeys, we believe that travel is not just about reaching a destination; it's about the experiences, the memories, and the stories that unfold along the way. Our tour and travel website is designed to be your ultimate companion in crafting the perfect journey, whether you're a solo explorer, a couple seeking a romantic getaway, or a family in search of new horizons.
-
-  <h2>Explore Your World with Ease:</h2>
-
-<p>Navigating through our website is as seamless as embarking on your dream vacation. The homepage welcomes you with stunning visuals of diverse destinations, enticing you to explore further. The user-friendly interface ensures that you can effortlessly browse through our extensive collection of tours, each carefully curated to offer a unique and immersive experience.</p>
-
+At Wanderlust Journeys, we believe that travel is not just about reaching a destination; it's about the experiences, the memories, and the stories that unfold along the way. Our tour and travel website is designed to be your ultimate companion in crafting the perfect journey, whether you're a solo explorer, a couple seeking a romantic getaway, or a family in search of new horizons.Navigating through our website is as seamless as embarking on your dream vacation. The homepage welcomes you with stunning visuals of diverse destinations, enticing you to explore further. The user-friendly interface ensures that you can effortlessly browse through our extensive collection of tours, each carefully curated to offer a unique and immersive experience.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you the project and running on your local machine for development and testing purposes.<br>
