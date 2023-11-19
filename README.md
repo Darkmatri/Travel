@@ -1,11 +1,11 @@
-# PASUGAARAM
+# ISEKAI
 
 ## Project-Documentation
 
  🏠 Home Page
 <p align="center">
   <a href="" rel="noopener">
- <img width=900px height=500px src="/screenshot/1.png" alt="Project logo"></a>
+ <img width=900px height=500px src="/images/New folder/home.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">PASUGAARAM <br> The Organic Evolution</h3>
