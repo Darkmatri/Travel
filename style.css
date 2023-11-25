@@ -389,7 +389,8 @@ section {
 }
 
 .msg-img {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, auto));
 }
 
 .msg-img form {
@@ -523,6 +524,9 @@ section {
         --p-font: 1rem;
         transition: .2s;
     }
+    .msg-img img{
+        height: 500px;
+    }
 }
 
 @media (max-width: 1040px) {
@@ -577,6 +581,10 @@ section {
         width: 50%;
         margin-bottom: 12px;
     }
+    .msg-img img{
+        height: calc(250px);
+    }
+    
 }
 
 @media (max-width: 575px) {
@@ -601,5 +609,8 @@ section {
     .home {
         height: 85vh;
         transition: 0.3s;
+    }
+    .msg-img img{
+        display: none;
     }
 }
